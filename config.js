@@ -25,7 +25,7 @@ function convertToBool(text, fault = 'true') {
 
 //--------------------------Mr Frank---------------------------------------
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "ENTER YOUR SUBZEFOSESSION HERE",
+SESSION_ID: process.env.SESSION_ID || "SUBZERO-MD~v3ximD5Y#_YV3vRZH2NJO6Fb6JaLP-blsQLUzVMRU6JCE-0r-R2c",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true", //TRUE OR FALSE
 MODE: process.env.MODE || "public",  // PRIVATE OR PUBLIC
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
